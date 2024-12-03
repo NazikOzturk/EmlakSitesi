@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Emlak Sitesi
 
 Şık, modern bir şekilde tasarlanmış olan emlak sitesi projemde bootstrapten faydalanarak slider,
